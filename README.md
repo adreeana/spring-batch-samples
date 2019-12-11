@@ -9,7 +9,6 @@ fournit tous les outils nécessaires pour implémenter des applications batch qu
 - la réexécution en cas d’erreur, 
 - le test.
 
-La documentation de référence adresse tous les points que j'ai essayeé de mettre en œuvre dans ce repo.
-Pour la consulter : https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html
+[La documentation de référence](https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html) adresse tous les points que j'ai essayeé de mettre en œuvre.
 
 Have fun !
